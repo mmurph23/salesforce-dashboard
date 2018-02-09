@@ -1,0 +1,19 @@
+.App { text-align: center; }
+.App-logo { animation: App-logo-spin infinite 20s linear; height: 80px; }
+.App-header { background-color: #222; height: 150px; padding: 20px; color: white; }
+.App-intro { font-size: large; }
+@keyframes App-logo-spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+span.sf-blue { color: #3196ef; }
+.container { width: 100%; padding: 0px; }
+.jumbotron.login {margin-top: 40px;}
+.main-container .container .row { margin: 0px; }
+.container.central-container { padding-top: 40px; }
+.navbar-inverse { padding-right: 20px; }
+.col-sm-2.left-container, .col-sm-2.right-container { min-height: 100vh; background-color: #eee; padding-top: 30px; height: auto; padding-bottom:40px; }
+.navbar.navbar-inverse { margin-bottom: 0px; }
+.col-sm-2.left-container { padding-left: 28px; }
+.col-sm-2.right-container { padding-right: 20px; }
+
+@media (min-width: 768px) {
+.navbar { border-radius: 0px; }
+}

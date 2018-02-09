@@ -1,0 +1,31 @@
+{
+  "name": "dev-edition",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "1.17.2",
+    "cookie-parser": "1.4.3",
+    "debug": "~2.6.3",
+    "express": "4.15.4",
+    "express-session": "1.15.5",
+    "history": "4.7.2",
+    "jade": "~1.11.0",
+    "jquery": "3.2.1",
+    "jsforce": "1.8.0",
+    "morgan": "~1.8.1",
+    "react": "15.6.1",
+    "react-dom": "15.6.1",
+    "react-redux": "5.0.6",
+    "react-router": "3.0.5",
+    "react-router-dom": "4.2.2",
+    "react-router-redux": "4.0.8",
+    "redux": "3.7.2",
+    "redux-thunk": "2.2.0",
+    "request": "2.81.0",
+    "serve-favicon": "~2.4.2",
+    "universal-cookie": "2.1.0"
+  }
+}
